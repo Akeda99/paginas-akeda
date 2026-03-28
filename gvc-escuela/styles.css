@@ -69,9 +69,10 @@ body.cursor-hover .cursor {
 }
 
 .nav-logo-img {
-  height: 100px;
+  height: 64px;
   width: auto;
   object-fit: contain;
+  max-width: 160px;
 }
 
 .hero-logo-img {
