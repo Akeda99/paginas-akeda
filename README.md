@@ -1,11 +1,16 @@
-# Páginas Web — Akeda
-
-Colección de sitios web estáticos desarrollados para clientes reales en Arequipa, Perú.  
-Cada proyecto está en su propia carpeta con HTML, CSS y JavaScript puros.
+<p align="right">
+  <a href="#english">English</a> · <a href="#español">Español</a>
+</p>
 
 ---
 
-## Proyectos
+## Español
+
+# Páginas Web — Akeda
+
+Colección de sitios web estáticos desarrollados para clientes reales en Arequipa, Perú.
+
+### Proyectos
 
 | Carpeta | Cliente | Demo |
 |---|---|---|
@@ -14,32 +19,43 @@ Cada proyecto está en su propia carpeta con HTML, CSS y JavaScript puros.
 | `powerfit-gym/` | PowerFit Gym | — |
 | `sabores-arequipenos/` | Sabores Arequipeños (restaurante) | — |
 
----
-
-## Stack
+### Stack
 
 - HTML5 semántico
-- CSS3 (diseño responsivo, Flexbox/Grid)
+- CSS3 (diseño responsivo, Flexbox / Grid)
 - JavaScript vanilla
 
----
+### Correr localmente
 
-## Estructura de cada proyecto
-
-```
-nombre-proyecto/
-├── index.html
-├── styles.css
-├── script.js
-└── assets/         # imágenes y recursos
-```
+Abre el `index.html` de cada proyecto directamente en el navegador, o usa Live Server en VS Code.
 
 ---
 
-## Correr localmente
+## English
 
-Abre directamente el `index.html` en el navegador, o usa Live Server en VS Code.
+# Web Pages — Akeda
+
+Collection of static websites developed for real clients in Arequipa, Peru.
+
+### Projects
+
+| Folder | Client | Demo |
+|---|---|---|
+| `gvc-escuela/` | GVC Escuela — educational institution | [gvc-eventos.netlify.app](https://gvc-eventos.netlify.app/) |
+| `elite-barberia/` | Elite Barbería — barbershop | — |
+| `powerfit-gym/` | PowerFit Gym | — |
+| `sabores-arequipenos/` | Sabores Arequipeños — restaurant | — |
+
+### Stack
+
+- Semantic HTML5
+- CSS3 (responsive design, Flexbox / Grid)
+- Vanilla JavaScript
+
+### Run locally
+
+Open the `index.html` of each project directly in the browser, or use Live Server in VS Code.
 
 ---
 
-© 2026 Ray Cardenas. Todos los derechos reservados.
+© 2026 Ray Cardenas. All rights reserved.
